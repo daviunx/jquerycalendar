@@ -7,34 +7,34 @@ Initial Example
 ==============
 
 First <strong>import CSS</strong> files from great plugin <a href='http://www.vissit.com/jquery-event-calendar-plugin-english-version'>jQuery Events Calendar Plugin</a>   
-    <p>
-    <code>
-    &lt;link rel="stylesheet" href="css/eventCalendar.css" /&gt; <br/>
+<pre>
+<code>
+    &lt;link rel="stylesheet" href="css/eventCalendar.css" /&gt;
     &lt;link rel="stylesheet" href="css/eventCalendar_theme_responsive.css" /&gt;
-    </code>
-    </p>
+</code>
+ </pre>
         
 After <strong>create calendar div container</strong>. Example:
-<p>
+<pre>
 <code>
-        &lt;div id='calendar'&gt;&lt;/div&gt;
+    &lt;div id='calendar'&gt;&lt;/div&gt;
 </code>
-</p>
+</pre>
 Now only you have to import and call jQuery Calendar Plugin
-<p>
+<pre>
 <code>
-        &lt;script src="js/jquery.min.js"&gt;&lt;/script&gt;<br/>
-        &lt;script src="js/jquery.calendar.js"&gt;&lt;/script&gt;        <br/>
-        $(document).ready(function() {<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$("#calendar").calendar();<br/>
-        });<br/>
+    &lt;script src="js/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script src="js/jquery.calendar.js"&gt;&lt;/script&gt;
+    $(document).ready(function() {
+        $("#calendar").calendar();
+    });
 </code>
-</p>
+</pre>
 
 <h2>Demo Page</h2>
-<p>
+<pre>
 Comming soon...
-</p>
+</pre>
 <footer>
 
 </footer>
