@@ -6,8 +6,7 @@ JQuery Calendar is a jQuery plugin for developers. You can handle day selects, p
 Initial Example
 ==============
 
-First import CSS files from great plugin jQuery Events Calendar Plugin. 
-(http://www.vissit.com/jquery-event-calendar-plugin-english-version):     
+First import CSS files from great plugin <a href='http://www.vissit.com/jquery-event-calendar-plugin-english-version'>jQuery Events Calendar Plugin</a>   
     <p>
     <code>
     &lt;link rel="stylesheet" href="css/eventCalendar.css" /&gt; <br/>
