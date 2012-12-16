@@ -29,9 +29,11 @@ Now only you have to import and call jQuery Calendar Plugin
 <code>
     &lt;script src="js/jquery.min.js"&gt;&lt;/script&gt;
     &lt;script src="js/jquery.calendar.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
     $(document).ready(function() {
         $("#calendar").calendar();
     });
+    &lt;/script&gt;
 </code>
 </pre>
 
